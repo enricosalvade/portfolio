@@ -1,4 +1,4 @@
-# Windows Autopilot Full Automation
+# Windows Autopilot Importer
 
 PowerShell automation solution for Windows Autopilot device registration and provisioning using Microsoft Graph API and Microsoft Intune.
 
