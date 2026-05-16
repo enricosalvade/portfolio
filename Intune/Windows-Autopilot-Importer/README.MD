@@ -41,10 +41,3 @@ Designed to simplify and accelerate enterprise device onboarding workflows.
 ## Purpose
 
 This project was created to simplify repetitive onboarding tasks and improve efficiency during Windows Autopilot registration processes in enterprise environments.
-
----
-
-## Disclaimer
-
-This project is intended for educational and lab purposes.  
-Always validate scripts and configurations before using them in production environments.
